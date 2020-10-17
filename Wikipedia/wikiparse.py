@@ -1,11 +1,13 @@
 import xml.etree.ElementTree as etree
 from collections import defaultdict
 import wikitextparser as wtp
+from func-timeout import func_set_timeout
 from wikidb import *
 import os, re, sys, time, string, signal, sqlite3, zlib
 
-#test
+
 def hms_string(sec_elapsed):
+    # Given seconds passed return string of hours:minutes:seconds passed
     h = int(sec_elapsed / (60 * 60))
     m = int((sec_elapsed % (60 * 60)) / 60)
     s = sec_elapsed % 60
@@ -13,7 +15,8 @@ def hms_string(sec_elapsed):
 
 
 def strip_tag_name(t):
-    return t[t.rfind("}") + 1: len(t)]
+    # {link}tag_name -> tage_name
+    return t[t.rfind("}") + 1:]
 
 
 def exclude(elem):
@@ -21,17 +24,20 @@ def exclude(elem):
     if elem.find('redirect') is not None:
         return True
 
-    # Skip non-article pages.
+    # Skip non-article pages.(namespace 0 are article pages)
     # Note that you may need error handling
-    if elem.find('ns') is None or elem.find('ns').text != '0':
+    if elem.find('ns') is None or elem.find('ns').text != '-1':
         return True
 
     # We don't have any reason to exclude it, so return
     # False (keep it).
     return False
 
-
+@func_set_timeout(10)  # There are a few bad articles that cause infinite loops (no idea how)
 def parsePage(elem, db=None):
+    # Goes over the page and inserts (pageid, title, catergories, article)
+    # Into the sqlite databse
+
     if exclude(elem):
         return
 
@@ -41,47 +47,15 @@ def parsePage(elem, db=None):
     page = wtp.parse(article)
     categories = getCategories(page)
     for c in categories:
-        if "births" in c:
+        if "births" in c: # Only insert the data if they are a person (has births in the categories)
             db.insert(pageid, title, repr(categories), article)
             return
     return
-    # 3 Steps
-    # 1) Get the infobox
-    # 2) Remove the first and last lines by slicing
-    # 3) Turn it into a Table
-    # Note: Code skips articles without infoboxes
-    # if inCategories(page, "births"):
-    #     infobox = getTemplate(page, "Infobox")
-    #     if infobox is None:
-    #         return
-    #     infobox = infobox[infobox.find("\n") + 1: infobox.rfind("\n")]
-    #     if infobox.count("\n") == 0:  # One line infobox creates an infinite loop
-    #         return
-    #     infobox = wtp.Table(infobox)
-    #
-    #
-    #     # Iterate over every cell and parse it
-    #     d = defaultdict(list)
-    #     try:
-    #         for a in range(len(infobox.cells())):
-    #             for b in range(len(infobox.cells(row=a))):
-    #                 parsed = parseCell(str(infobox.cells(row=a, column=b)))
-    #                 d[parsed[0]] = parsed[1]
-    #     except IndexError:
-    #         return
-    #
-    #     gender = getGender(article)
-    #     spouse = d["spouse"]
-    #     children = d["children"]
-    #     occupation = d["occupation"]
-    #
-    #     db.insert(pageid, title, chars, gender, spouse, children, occupation)
-
 
 def getTemplate(page, template):
     """
     Given a parsed article return the string of given template
-    :param page: 'wikitextparser._wikitext.WikiText'
+    :param page: 'wikitextparser._wikitext.WikiText
     :param template: String (first part of a template)
     :return: String of Template
     """
@@ -93,11 +67,15 @@ def getTemplate(page, template):
 
 def getCategories(page):
     s = page.string
+    # Categories are always listed at the bottom of the wikipedia page
+    # So the first "{{Category: " you find everything after it will also be categories
     categories = s[s.find("[[Category:"):].split("\n")
     return categories
 
 
 def inCategories(page, value):
+    # Check if some value is in the categories
+    # Ex inCategories(page, births)
     for c in getCategories(page):
         if value in c:
             return True
@@ -105,6 +83,8 @@ def inCategories(page, value):
 
 
 def getGender(page):
+    # Gets the gender from a page using a simple pronoun count
+    # NOTE: only accounts for male and female
     male, mc = ["he", "him", "his"], 0
     female, fc = ["her", "she", "hers"], 0
 
@@ -158,18 +138,21 @@ start_time = time.time()
 
 
 def main(file, db):
+    # Iterates over every article in the xml dump and inserts (pageid, title, categories, article)
+    # Into an sqlite databse if the article is about a perosn
+    # This database will later be used to get more specific information
     pageCount = 0
     for event, elem in etree.iterparse(file, events=('end',)):
         elem.tag = strip_tag_name(elem.tag)
         if elem.tag != "page": continue
         print(elem.find("title").text)
-        if elem.find("title").text in ["List of heads of government of Russia", "2014 Roger Federer tennis season", "Results of the 2019 Canadian federal election by riding"]:
-            elem.clear()
-            continue
         pageCount += 1
-        parsePage(elem, db)
+	try:
+            parsePage(elem, db)
+	except BaseException as e:
+	    print(e)
         elem.clear()
-        if not pageCount % 100000:
+        if not pageCount % 100000:  # Prints out periodic progress statements
             elapsed_time = time.time() - start_time
             print("{} articles parsed".format((pageCount / 100000) * 100000), end=" ")
             print("Elapsed time: {}".format(hms_string(elapsed_time)))
@@ -181,6 +164,6 @@ def main(file, db):
 
 
 if __name__ == "__main__":
-    db = WikiDB("wiki.db")
+    db = WikiDB("wiki.db")  # Initialize sqlite database
     main(pathWikiXML, db)
 
