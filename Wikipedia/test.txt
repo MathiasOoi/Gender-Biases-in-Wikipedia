@@ -1,0 +1,1234 @@
+{{short description|Wikipedia list article}}
+{{use dmy dates|date=July 2016}}
+{{featured list}}
+{{hatnote|Dates before the calendar reform of 26 January 1918 in Russia are according to the [[Julian calendar]].}}
+[[File:Mishustin Portrait govru.jpg|thumb|200px|[[Mikhail Mishustin]], the incumbent Prime Minister]]
+Approximately 99 people have been head of the [[Russian government]] since its establishment in 1726. The chairman of government was a member of the [[Supreme Privy Council]], which was created on {{tooltip|8|per Julian calendar}} (19) February 1726 by Empress [[Catherine I of Russia|Catherine]], and from {{tooltip|8|per Julian calendar}} (20) September 1802 ministerial duties were allocated by the [[Committee of Ministers (Russia)|Committee of Ministers]], which was established on  in accordance with the proclamation of Emperor [[Alexander II of Russia|Alexander II]]. Beginning with [[Count]] [[Aleksandr Romanovich Vorontsov]], the eldest of the officers was ''[[de facto]]'' chairman of the committee. Eight years after the inauguration of the manifest, the first ''[[de jure]]'' office holder was Count [[Nikolay Rumyantsev]].<ref>{{ВТ-ЭСБЕ|Комитет министров}}</ref> The [[Council of Ministers of Russia|Council of Ministers]] was unofficially formed in October 1857, as a result of Emperor Alexander II's reforms; its first session began on {{tooltip|19|per Julian calendar}} (31) December 1857. Before the actual formation of that body on {{tooltip|12|per Julian calendar}} (24) November 1861, the Emperor himself was in charge. The Council of Ministers consisted of chairmen of the [[State Council (Russian Empire)|State Council]] and the Committee of Ministers, as well as high-ranking officers appointed by the Emperor. The first session ended on {{tooltip|11|per Julian calendar}} (23) December 1882, after the number of files to the Council greatly decreased.<ref>{{ВТ-ЭСБЕ|Совет министров}}</ref><ref>{{cite web|url=http://www.prlib.ru/en-us/history/pages/item.aspx?itemid=330|title=Ministers' Council established in Russia|publisher=Presidential Library Named After Boris Yeltsin|accessdate=10 August 2014}}</ref>
+
+The Committee of Ministers functioned simultaneously with the second session of the Council of Ministers for six more months; Count [[Sergei Witte]] participated on both entities until the abolition of the committee on {{tooltip|23|per Julian calendar}} April (5 May) 1906. Following that event, the duties of the committee were left to the Council of Ministers, until the formation of the Small Council in 1909, which also included deputy ministers. By the order of Emperor [[Nicholas II of Russia|Nicholas II]], the second session of the Council of Ministers began on {{tooltip|19|per Julian calendar}} October (1 November) 1905, following the formation of the [[State Duma (Russian Empire)|State Duma]]. Shortly after the [[February Revolution]] and the inception of the [[Russian Provisional Government]] on {{tooltip|2|per Julian calendar}} (15) March 1917, [[Georgy Lvov]] from the [[Constitutional Democratic Party]] and [[Alexander Kerensky]] from the [[Socialist Revolutionary Party]] became joint Minister-Chairmen. The provisional Russian Republic was eventually replaced by the [[Russian Soviet Federative Socialist Republic]] (RSFSR) and the governmental body by the [[Council of People's Commissars]], which was chaired from 1917–24 by [[Vladimir Lenin]]. That body was renamed [[Council of Ministers of the Soviet Union|Council of Ministers]] following a decree of the [[Supreme Soviet of the Soviet Union|Supreme Council]] on 23 March 1946.
+
+After the fall of the Soviet Union, [[Boris Yeltsin]], as the [[President of the Russian Federation]], was automatically appointed as the Head of Government of the [[Russian Federation]] in the first two years of his mandate. The latter body took the previous name "Council of Ministers", the chairman of which became [[Viktor Chernomyrdin]], replacing [[Acting (law)|acting]] chairman [[Yegor Gaidar]]. According to the new [[constitution of the Russian Federation|constitution]] ratified on 25 December 1993, those two entities were separated. Since then, the head of that office takes the formal title "Chairmen of the Government" or colloquially "Prime Minister" (the only actual prime minister was [[Valentin Pavlov]]). Chernomyrdin resumed chairing the government, followed up by non-partisans and acting office holders. On 8 May 2008, [[Vladimir Putin]] took the office for a second term, now as a member of [[United Russia]]. Current Prime Minister [[Mikhail Mishustin]] took the office on 16 January 2020.
+
+The youngest head of government by his accession to office was Count [[Charles Frederick, Duke of Holstein-Gottorp|Karl-Fridrikh Golshteyn-Gottorpsky]], at age 26, and the oldest Count [[Pyotr Andreyevich Tolstoy]], at age 81.
+
+== Russian Empire (1721–1917) ==
+Since the 18th century, a modern system of public administration was going to be created in Russia, including the formation of bodies such as the [[Supreme Privy Council]] and the [[Council of Ministers of Russia#Committee of Ministers|Committee of Ministers]] whose powers are similar to the powers of the modern [[Russian Government]]. In the period from 1726 to 1905 there was no official title for the leader of the government. The chief ministers (principal ministres) of certain [[Emperor of All Russia]] nonetheless led the government ''de facto'', but ''de jure'' the head of government was a monarch.<ref>[http://rusplt.ru/sub/ratings/vitte.html 7 царских председателей Совета министров]</ref>
+
+{| class="wikitable" width=80% style="text-align:center; margin: 1em auto 1em auto;"
+! scope="col" colspan="2" width=1%|Portrait
+! scope="col" width=34%|Name<br /><small>(birth–death)</small>
+! scope="col" colspan="2" width=20%|Term of office
+! scope="col" width=10%|Emperor
+|-
+!colspan="8"|Members of the Supreme Privy Council of the Russian Empire (1726–1730)
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Portrait of Alexander Danilovich Menshikov1.jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Count]] and [[Prince]] [[Alexander Danilovich Menshikov]]<br /><small>(1673–1729)</small>
+| <small>8 February</small><br />1726
+| <small>8 September</small><br />1727
+| rowspan=11|'''[[Catherine I of Russia|Catherine I]]'''<br />[[File:Catherine_I_of_Russia_by_Nattier.jpg|100px]]<br /><small>(1725–1727)</small><br />'''[[Peter II of Russia|Peter II]]'''<br />[[File:Peter_II_by_anonymous_(1800s,_Hermitage).jpg|100px]]<br /><small>(1727–1730)</small><br />'''[[Anna of Russia|Anna]]'''<br />[[File:Louis_Caravaque,_Portrait_of_Empress_Anna_Ioannovna_(1730).jpg|100px]]<br /><small>(1730–1740)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Fyodor Matveyevich Apraksin.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Fyodor Matveyevich Apraksin]]<br /><small>(1661–1728)</small>
+| <small>8 February</small><br />1726
+| <small>10 November</small><br />1728
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Chancelor G.I.Golovkin by I.Nikitin (1720s, Tretyakov gallery).jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Gavriil Ivanovich Golovkin]]<br /><small>(1660–1734)</small>
+| <small>8 February</small><br />1726
+| <small>6 May</small><br />1727
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Генрих Иоганн Фридрих (Андрей Иванович) Остерман.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Andrey Ivanovich Osterman]]<br /><small>(1686–1747)</small>
+| <small>8 February</small><br />1726
+| <small>6 May</small><br />1727
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Князь Дмитрий Михайлович Голицын (1665 — 1737).jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Prince]] [[Dmitry Mikhaylovich Golitsyn]]<br /><small>(1665–1737)</small>
+| <small>8 February</small><br />1726
+| <small>6 May</small><br />1727
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Johann Gottfried Tannauer 05.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Pyotr Andreyevich Tolstoy]]<br /><small>(1645–1729)</small>
+| <small>8 February</small><br />1726
+| <small>6 May</small><br />1727
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Charles Frederick of Holstein-Gottorp by anonymous (Kuskovo, 18th c.).jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Charles Frederick, Duke of Holstein-Gottorp|Karl Fridrikh Golshteyn-Gottorpsky]]<br /><small>(1700–1739)</small>
+| <small>8 February</small><br />1726<br />(or <small>March</small> 1726)<ref>{{ВТ-ЭСБЕ|Верховный тайный совет}}</ref>
+| <small>25 July</small><br />1727
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Lesser Coat of Arms of Russian Empire.svg|100px]]<!--File:Dolgoruky v1 p7.png-->
+! scope="row" style="font-weight:normal;" | Prince [[Alexey Grigoryevich Dolgorukov]]<br /><small>(?–1734)</small>
+| <small>3 February</small><br />1728
+| <small>4 March</small><br />1730
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Dolgorukov Vasiliy Lukich (painted portrait).jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Vasily Lukich Dolgorukov]]<br /><small>(1670–1739)</small>
+| <small>6 April</small><br />1729
+| <small>4 March</small><br />1730
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Dolgorukov Vasily Vladimirovich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Vasily Vladimirovich Dolgorukov]]<br /><small>(1667–1746)</small>
+| <small>19 January</small><br />1730
+| <small>4 March</small><br />1730
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Golitsyn M M 1675-1730.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Mikhail Mikhailovich Golitsyn]]<br /><small>(1675–1730)</small>
+| <small>19 January</small><br />1730
+| <small>4 March</small><br />1730
+|-
+!colspan="8"|Cabinet ministers of the Russian Empire (1731–1741)
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Chancelor G.I.Golovkin by I.Nikitin (1720s, Tretyakov gallery).jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count Gavriil Ivanovich Golovkin<br /><small>(1660–1734)</small>
+| <small>10 November</small><br />1731
+| <small>20 January</small><br />1734
+| rowspan=4|'''[[Anna of Russia|Anna]]'''<br />[[File:Louis_Caravaque,_Portrait_of_Empress_Anna_Ioannovna_(1730).jpg|100px]]<br /><small>(1730–1740)</small><br />'''[[Ivan VI of Russia|Ivan VI]]'''<br />[[File:Ivan_VI_Antonovich_(Oranienbaum).jpg|100px]]<br /><small>(1740–1741)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Генрих Иоганн Фридрих (Андрей Иванович) Остерман.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count Andrey Ivanovich Osterman<br /><small>(1686–1747)</small>
+| <small>20 January</small><br />1734
+| <small>10 November</small><br />1740
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Minikh.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Burkhard Christoph von Münnich|Khristofor Antonovich Minikh]]<br /><small>(1683–1767)</small>
+| <small>10 November</small><br />1740
+| <small>3 March</small><br />1741
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Генрих Иоганн Фридрих (Андрей Иванович) Остерман.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count Andrey Ivanovich Osterman<br /><small>(1686–1747)</small><br />(2nd time)<br />
+| <small>3 March</small><br />1741
+| <small>25 November</small><br />1741
+|-
+!colspan="8"|Conferency ministers at the Highest Court of the Russian Empire (1756–1762)
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Stepaapraxin.jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Stepan Fyodorovich Apraksin]]<br /><small>(1702–1758)</small>
+| <small>14 March</small><br />1756
+| <small>1 October</small><br />1757
+|rowspan=13|'''[[Elizabeth of Russia|Elizabeth]]'''<br />[[File:Elizabeth_of_Russia_by_V.Eriksen.jpg|100px]]<br /><small>(1741–1762)</small><br />'''[[Peter III of Russia|Peter III]]'''<br />[[File:Coronation_portrait_of_Peter_III_of_Russia_-1761.JPG|100px]]<br /><small>(1762)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:M P Bestuzhev-Ryumin.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Mikhail Petrovich Bestuzhev-Ryumin]]<br /><small>(1688–1760)</small>
+| <small>14 March</small><br />1756
+| <small>2 October</small><br />1757
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Michail Michajlovitj Golitsyn color.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Mikhail Mikhailovich Golitsyn (general admiral)|Mikhail Mikhailovich Golitsyn]]<br /><small>(1684–1764)</small>
+| <small>14 March</small><br />1756
+| <small>17 December</small><br />1757
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Chancellor bestuzhev.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Alexey Petrovich Bestuzhev-Ryumin]]<br /><small>(1693–1768)</small>
+| <small>14 March</small><br />1756
+| <small>14 February</small><br />1758
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Alexandr Borisovich Buturlin.gif|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Alexander Borisovich Buturlin]]<br /><small>(1694–1767)</small>
+| <small>14 March</small><br />1756
+| <small>17 October</small><br />1760
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:RusPortraits v3-003 Le Comte Pierre Ivanowitch Chouvaloff.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Peter Ivanovich Shuvalov]]<br /><small>(1711–1762)</small>
+| <small>14 March</small><br />1756
+| <small>4 January</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Alexey Antropov 016.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Mikhail Illarionovich Vorontsov]]<br /><small>(1714–1767)</small>
+| <small>14 March</small><br />1756
+| <small>20 January</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Troubetskoy Nikita Yuryevich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Nikita Yuryevich Trubetskoy]]<br /><small>(1699–1767)</small>
+| <small>14 March</small><br />1756
+| <small>20 January</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:RusPortraits v3-063 Graf Aleksandr Ivanovich Shuvalov, 1710-1771.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Alexander Ivanovich Shuvalov]]<br /><small>(1710–1771)</small>
+| <small>14 March</small><br />1756
+| <small>20 January</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Coronation portrait of Peter III of Russia -1761.JPG|100px]]
+! scope="row" style="font-weight:normal;" | [[Grand Duke]] [[Peter Fyodorovich Romanov]]<br />(subsequently ''[[Emperor]]'' Peter III)<br /><small>(1728–1762)</small>
+| <small>14 March</small><br />1756
+| <small>28 January</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Yakov Petrovich Shakhovskoy.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Yakov Petrovich Shakhovsky]]<br /><small>(1705–1777)</small>
+| <small>16 September</small><br />1760
+| <small>25 December</small><br />1761
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Неплюев.jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Ivan Ivanovich Neplyuev]]<br /><small>(1693–1773)</small>
+| <small>16 September</small><br />1760
+| <small>20 January</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Vorontsov Roman by Serdyukov.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Roman Illarionovich Vorontsov]]<br /><small>(1707–1783)</small>
+| <small>28 December</small><br />1761
+| <small>20 January</small><br />1762
+|-
+!colspan="8"|Members of the Imperial Council of the Russian Empire (1762)
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Georg Ludwig von Holstein-Gottorp.png|100px]]
+! scope="row" style="font-weight:normal;" | [[Prince]] [[Prince Georg Ludwig of Holstein-Gottorp|Georg Ludwig von Holstein-Gottorp]]<br /><small>(1719–1763)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+| rowspan=8|'''[[Peter III of Russia|Peter III]]'''<br />[[File:Coronation_portrait_of_Peter_III_of_Russia_-1761.JPG|100px]]<br /><small>(1762)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Peter August, Duke of Schleswig-Holstein-Sonderburg-Beck.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Peter August, Duke of Schleswig-Holstein-Sonderburg-Beck|Pyotr Avgust Fridrikh Golshteyn-Beksky]]<br /><small>(1696–1775)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Minikh.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count Khristofor Antonovich Minikh<br /><small>(1683–1767)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Troubetskoy Nikita Yuryevich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince Nikita Yuryevich Trubetskoy<br /><small>(1699–1767)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Alexey Antropov 016.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count Mikhail Illarionovich Vorontsov<br /><small>(1714–1767)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Lesser Coat of Arms of Russian Empire.svg|100px]]
+! scope="row" style="font-weight:normal;" | [[Aleksandr Nikitich Vilbua]]<br /><small>(1713–1788)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Volkonsky Mikhail Nikitich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Mikhail Nikitich Volkonsky]]<br /><small>(1713–1788)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Melgunov A.P. 2.jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Aleksey Petrovich Melgunov]]<br /><small>(1722–1788)</small>
+| <small>28 January</small><br />1762
+| <small>28 June</small><br />1762
+|-
+!colspan="8"|Heads of Council Affairs at the Highest Court (Highest Council) of the Russian Empire (1768–1801)
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Lesser Coat of Arms of Russian Empire.svg|100px]]
+! scope="row" style="font-weight:normal;" | [[Stepan Fyodorovich Strekalov]]<br /><small>(1728–1805)</small>
+| <small>17 November</small><br />1768
+| 1776
+| rowspan=3|'''[[Catherine II of Russia|Catherine II]]'''<br />[[File:Profile_portrait_of_Catherine_II_by_Fedor_Rokotov_(1763,_Tretyakov_gallery).jpg|100px]]<br /><small>(1762–1796)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Samoylov Alexander Nikolaevich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Alexander Nikolayevich Samoylov]]<br /><small>(1744–1814)</small>
+| 1776
+| 1787
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Lesser Coat of Arms of Russian Empire.svg|100px]]
+! scope="row" style="font-weight:normal;" | [[Ivan Andreyevich Veydemeyer]]<br /><small>(1752–1820)</small>
+| 1787
+| <small>18 November</small><br />1796
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Vladimir Borovikovsky 001 (portrait of Gavrila Derzhavin).jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Gavriil Romanovich Derzhavin]]<br /><small>(1743–1816)</small>
+| <small>18 November</small><br />1796
+| <small>22 November</small><br />1796
+|rowspan=2|'''[[Paul I of Russia|Paul I]]'''<br />[[File:Borovikovskiy_PtPavla1GRM.jpg|100px]]<br /><small>(1796–1801)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Lesser Coat of Arms of Russian Empire.svg|100px]]
+! scope="row" style="font-weight:normal;" | Ivan Andreyevich Veydemeyer<br /><small>(1752–1820)</small><br />(2nd time)<br />
+| <small>18 November</small><br />1796
+| <small>26 March</small><br />1801
+|-
+!colspan="8"|Chairmen of the Committee of Ministers of the Russian Empire (1802–1905)
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:AlexandrRomanovichVorontsov.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Alexander Romanovich Vorontsov|Alexander Vorontsov]]<br /><small>(1741–1805)</small>
+| 1802
+| 1804
+|rowspan=7|'''[[Alexander I of Russia|Alexander I]]'''<br />[[File:Alexander_I_of_Russia_by_G.Dawe_(1826,_Peterhof).jpg|100px]]<br /><small>(1801–1825)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Adam Jerzy Czartoryski by J.Oleszkiewicz 02.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Adam Jerzy Czartoryski]]<br /><small>(1770–1861)</small>
+| 1804
+| 1806
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Andrey Yakovlevich von Budberg (Russian portraits, Vol.2, Num.164) - retouched.jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Andreas Eberhard von Budberg]]<br /><small>(1750–1812)</small>
+| 1806
+| 1807
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Rumyan.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Nikolay Petrovich Rumyantsev]]<br /><small>(1754–1826)</small>
+| 1807
+| 1812
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Saltykov Nikolay Ivanovich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count and Prince [[Nikolay Ivanovich Saltykov]]<br /><small>(1736–1816)</small>
+| <small>29 March</small><br />1812<ref name="Saltykov">{{cite web |url = http://dic.academic.ru/dic.nsf/enc_biography/109759/%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2 |script-title=ru:Салтыков, князь Николай Иванович |trans-title=Prince Nikolay Ivanovich Saltykov |language=ru |accessdate=7 April 2014}}</ref>
+| <small>9 September</small><br />1812 ''(disputed)''{{NoteTag|Sources which list Vyazmitinov as Saltykov's successor state a date of 9 September 1812; other sources assert that Saltykov was in office until his death}}<br /><small>16 May</small><br />1816<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Orest Kiprensky 055.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Sergey Kuzmich Vyazmitinov]] ''(disputed)''{{NoteTag|Some sources (such as the ''Large Soviet Encyclopedia'') list Vyazmitinov as committee minister, while other (such as the ''History of the Fatherland'' encyclopedia) don't mention him at all and instead list Lopukhin as the successor of Saltykov.}}<br /><small>(1744–1819)</small>
+| <small>9 September</small><br />1812
+| <small>15 October</small><br />1816<!--day of death-->
+|-
+|rowspan=2 style="background-color: {{Independent (politician)/meta/color}}"|
+|rowspan=2|[[File:P.V.Lopukhin by S.Shukin (1801).jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" | Prince [[Pyotr Vasilyevich Lopukhin]]<br /><small>(1753–1827)</small>
+|rowspan=2 | <small>25 May</small><br />1816<ref>{{cite book |script-title=ru:Неизвестная Фемида : документы, события, люди |trans-title=The Unknown Themis: Documents, Events, People |publisher=ОЛМА Медиа Групп |year=2003|page=93|isbn=978-5-224-04224-1 |language=ru }}</ref>
+|rowspan=2 |<small>6 April</small><br />1827<!--day of death-->
+|-
+|rowspan=6|'''[[Nicholas I of Russia|Nicholas I]]'''<br />[[File:Franz_Krüger_-_Portrait_of_Emperor_Nicholas_I_-_WGA12289.jpg|100px]]<br /><small>(1825–1855)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Kochubey Viktor Pavlovich.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Viktor Pavlovich Kochubey]]<br /><small>(1768–1834)</small>
+| <small>29 April</small><br />1827<ref>{{cite web |url = http://dic.academic.ru/dic.nsf/enc_biography/62464/%D0%9A%D0%BE%D1%87%D1%83%D0%B1%D0%B5%D0%B9|script-title=ru:Кочубей, князь Виктор Павлович |trans-title=Prince Viktor Pavlovich Kochubey |accessdate=8 April 2014 |language=ru }}</ref>
+| <small>3 June</small><br />1834<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Nikolay Nikolayevich Novosiltsev.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Nikolay Nikolayevich Novosiltsev]]<br /><small>(1761–1838)</small>
+| <small>11 July</small><br />1834<ref>{{cite book|script-title=ru:Управленческая элита Российской империи: история министерств, 1802–1917|trans-title=Ruling Elite of the Russian Empire: History of Ministries, 1802–1917|publisher="Лики России"|editor=B. V. Ananych|year=2008|language=Russian}}</ref>
+| <small>8 April</small><br />1838<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Егор Ботман - портрет князя И.В. Васильчикова.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Illarion Vasilyevich Vasilchikov]]<br /><small>(1776–1847)</small>
+| <small>9 April</small><br />1838<ref>{{cite web|url=http://www.hrono.ru/biograf/bio_we/vasilchikov_iv.php|archiveurl=https://web.archive.org/web/20140209132624/http://www.hrono.ru/biograf/bio_we/vasilchikov_iv.php|archivedate=9 February 2014|script-title=ru:Васильчиков Илларион Васильевич — Биографический указатель|trans-title=Illarion Vasilyevich Vasilchikov – Biography|accessdate=5 April 2014|language=Russian}}</ref>
+| <small>21 February</small><br />1847<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Levashov V V.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Vasily Vasilyevich Levashov]]<br /><small>(1783–1848)</small>
+| <small>31 December</small><br />1847<ref>{{cite book|title=Царский декамерон: От Николая I до Николая II|series=Исторические книги В.Н. Балязина (Historical Books by V. N. Balyazin)|author1=Vladimir Nikolayevich Balyazin|author2=Voldemar Nikolayevich Balyazin|volume=2|year=2008|publisher=ОЛМА Медиа Групп|language=ru|isbn=978-5-373-01976-7|page=49}}</ref>
+| <small>23 September</small><br />1848<!--day of death-->
+|-
+|rowspan=2 style="background-color: {{Independent (politician)/meta/color}}"|
+|rowspan=2| [[File:Chernyshov Alexander.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" | Prince [[Alexander Ivanovich Chernyshyov]]<br /><small>(1785–1857)</small>
+|rowspan=2| <small>1 December</small><br />1848<ref name="Chernyshov">{{cite web|url=http://www.hrono.ru/biograf/bio_ch/chernyshov_ai.php|script-title=ru:Александр Иванович Чернышев — Биографический указатель|trans-title=Aleksandr Ivanovich Chernyshov|accessdate=5 April 2014|language=Russian}}</ref>
+|rowspan=2| <small>5 April</small><br />1856<ref name="Chernyshov"/>
+|-
+|rowspan=6|'''[[Alexander II of Russia|Alexander II]]'''<br />[[File:Александр-ІІ.-Портрет-Н.-Лаврова.jpg|100px]]<br /><small>(1855–1881)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Orlov A F-by Kruger.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Alexey Fyodorovich Orlov]]<br /><small>(1787–1862)</small>
+| <small>May</small><br />1857<ref>{{cite web|url=http://enc-panino.ru/?tag=%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2-%D1%84%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87|script-title=ru:Землевладельцы Панинского района. Князь Орлов Алексей Фёдорович|trans-title=Landowners of the Panin Rayon. Prince Alexey Fyodorovich Orlov|accessdate=9 April 2014|language=Russian}}</ref>
+| <small>January</small><br />1861<ref>{{cite web|url=http://www.biografija.ru/biography/orlov-knyaz-aleksej-fedorovich.htm|archiveurl=https://web.archive.org/web/20140407075843/http://www.biografija.ru/biography/orlov-knyaz-aleksej-fedorovich.htm|archivedate=7 April 2014|script-title=ru:Орлов князь Алексей Федорович|trans-title=Prince Aleksey Fyodorovich Orlov|language=ru|accessdate=4 April 2014}}</ref>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Bludov 1872.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Dmitry Nikolayevich Bludov]]<br /><small>(1785–1864)</small>
+| <small>12 November</small><br />1861<!--establishment of the Council of Ministers-->
+| <small>19 February</small><br />1864<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Pavel Pavlovich Gagarin.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Prince [[Pavel Pavlovich Gagarin]]<br /><small>(1789–1872)</small>
+| <small>24 February</small><br />1864<ref name="Gagarin">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/gagarin-pavel-pavlovich.html|archiveurl=https://web.archive.org/web/20140407100248/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/gagarin-pavel-pavlovich.html|archivedate=7 April 2014|script-title=ru:Павел Павлович Гагарин|trans-title=Pavel Pavlovich Gagarin|publisher=Russian Empire|accessdate=5 April 2014|language=Russian}}</ref>
+| <small>21 February</small><br />1872<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Pavel Nikolaevich Ignatiev.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Pavel Nikolayevich Ignatyev]]<br /><small>(1797–1879)</small>
+| <small>21 February</small><br />1872<ref name="Ignatyev">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/ignatev-pavel-nikolaevich.html|archiveurl=https://web.archive.org/web/20140407100248/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/gagarin-pavel-pavlovich.html|archivedate=7 April 2014|script-title=ru:Игнатьев Павел Николаевич|trans-title=Pavel Nikolayevich Ignatyev|publisher=Russian Empire|accessdate=5 April 2014|language=Russian}}</ref>
+| <small>20 December</small><br />1879<ref name="Ignatyev"/>
+|-
+|rowspan=2 style="background-color: {{Independent (politician)/meta/color}}"|
+|rowspan=2| [[File:Valuyev.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" | Count [[Pyotr Aleksandrovich Valuyev]]<br /><small>(1815–1890)</small>
+|rowspan=2| <small>25 December</small><br />1879<ref name="Valuyev">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/valuev-petr-aleksandrovich.html|archiveurl=https://web.archive.org/web/20140407100301/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/valuev-petr-aleksandrovich.html|archivedate=7 April 2014|script-title=ru:Валуев Петр Александрович|trans-title=Pyotr Aleksandrovich Valuyev|publisher=Russian Empire|accessdate=5 April 2014|language=Russian}}</ref>
+|rowspan=2| <small>4 October</small><br />1881<ref name="Valuyev"/>
+|-
+|rowspan=3|'''[[Alexander III of Russia|Alexander III]]'''<br />[[File:Ivan Kulikov Portrait of Alexander III.jpg|100px]]<br /><small>(1881–1894)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Reitern, 1865.jpg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Mikhail Khristoforovich Reytern]]<br /><small>(1820–1890)</small>
+| <small>4 October</small><br />1881<ref name="Reytern">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/reytern-mihail-hristoforovich.html|archiveurl=https://web.archive.org/web/20140407100840/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/reytern-mihail-hristoforovich.html|archivedate=7 April 2014|script-title=ru:Рейтерн Михаил Христофорович|trans-title=Mikhail Khristoforovich Reytern|publisher=Russian Empire|accessdate=6 April 2014|language=Russian}}</ref>
+| <small>30 December</small><br />1886<ref name="Reytern"/>
+|-
+|rowspan=2 style="background-color: {{Independent (politician)/meta/color}}"|
+|rowspan=2| [[File:Ivan Tyurin - Portrait of N.H.Bunge, 1887.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" | [[Nikolay Khristianovich Bunge]]<br /><small>(1823–1895)</small>
+|rowspan=2| <small>1 January</small><br />1887<ref name="Bunge">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/bunge-nikolay-hristianovich.html|archiveurl=https://web.archive.org/web/20140408214746/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/bunge-nikolay-hristianovich.html|archivedate=8 April 2014|script-title=ru:Бунге Николай Христианович|trans-title=Nikolay Khristianovich Bunge|publisher=Russian Empire|accessdate=7 April 2014|language=Russian}}</ref>
+|rowspan=2| <small>3 June</small><br />1895<ref name="Bunge"/>
+|-
+|rowspan=3|'''[[Sainthood|St.]] [[Nicholas II of Russia|Nicholas II]]'''<br />[[File:Nicholas II, att. Vsevolod Strekalovskiy (1910s, Hillwood museum).jpg|100px]]<br /><small>(1894–1917)</small>
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Durnovo by Repin.jpg|100px]]
+! scope="row" style="font-weight:normal;" | [[Ivan Nikolayevich Durnovo]]<br /><small>(1834–1903)</small>
+| <small>15 October</small><br />1895<ref name="Durnovo">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/durnovo-ivan-nikolaevich.html|archiveurl=https://web.archive.org/web/20140408220735/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/durnovo-ivan-nikolaevich.html|archivedate=8 April 2014|script-title=ru:Дурново Иван Николаевич|trans-title=Ivan Nikolayevich Durnovo|publisher=Russian Empire|accessdate=7 April 2014|language=Russian}}</ref>
+| <small>29 May</small><br />1903<!--day of death-->
+|-
+|style="background-color: {{Independent (politician)/meta/color}}"|
+| [[File:Sergius Witte Portrait by Ilya Repin.jpeg|100px]]
+! scope="row" style="font-weight:normal;" | Count [[Sergei Yulyevich Witte]]<br /><small>(1849–1915)</small>
+| <small>16 August</small><br />1903<ref name="Witte">{{cite web|url=http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/vitte-sergey-yulievich.html|archiveurl=https://web.archive.org/web/20140408220949/http://www.rusempire.ru/glavy-pravitelstva-rossiyskoy-imperii/vitte-sergey-yulievich.html|archivedate=8 April 2014|title=Витте Сергей Юлиевич (sic!)|trans-title=Sergey Yuliyevich (sic!) Witte|publisher=Russian Empire|accessdate=7 April 2014|language=Russian}}</ref>
+| <small>6 November</small><br />1905<ref name="Witte"/>
+|}
+
+===Prime Minister of the Russian Empire (1905–1917)===
+The modern government type in Russia came after the establishment of the [[Council of Ministers of the Russian Empire|Council of Ministers]] on 1 November 1905, created for the "management and union action principal chiefs of departments on subjects like law and senior public administration", and modelled on the relevant institutions within the constitutional states, when all the ministries and directorates have been declared part of the unified state management.{{clarify|date=July 2016}} The first Prime Minister was Count [[Sergei Witte]], who was appointed on 6 November 1905.<ref>[http://www.prlib.ru/History/Pages/Item.aspx?itemid=948 Преобразован Совет министров Российской империи]</ref>
+
+{{legend|{{Independent (politician)/meta/color}}|[[Independent (politician)|Independent]] | border=1px solid #AAAAAA}}
+<center>
+{| class="wikitable" style="text-align:center"
+! colspan=2 | Portrait
+! Name<br/><small>(birth–death)</small>
+! colspan=3 | Term of office
+! Political party
+! Legislature<br /><small>(election)</small>
+! colspan=2 |Emperor
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"| 1
+|[[File:SergeiWitte01548v.jpg|100px]]
+! scope="row" style="font-weight:normal;" |<small>Count</small><br/>[[Sergey Yulyevich Witte]]<br /><small>(1849–1915)</small>
+|[[Sergei Witte's Cabinet|•]]
+| 6 November 1905
+| 5 May 1906
+|[[Independent (politician)|Independent]]
+|''None''
+|rowspan=10 align=center style="background: {{Independent (politician)/meta/color}};"|
+|rowspan=10|'''[[Sainthood|St.]] [[Nicholas II of Russia|Nicholas II]]'''<br />[[File:Nicholas II, att. Vsevolod Strekalovskiy (1910s, Hillwood museum).jpg|100px]]<br /><small>(1894–1917)</small>
+
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"| 2
+|[[File:Ivan Logginovitch Goremykin, c. 1906 (cropped).jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Ivan Logginovich Goremykin]]<br /><small>(1839–1917)</small>
+|[[Ivan Goremykin's First Cabinet|1]]
+|5 May 1906
+|21 July 1906
+|[[Independent (politician)|Independent]]
+|[[State Duma (Russian Empire)#First Duma|I]]<br /><small>([[1906 Russian legislative election|1906]])</small>
+|-
+!rowspan=2 align=center style="background: {{Independent (politician)/meta/color}};"| 3
+|rowspan=2 |[[File:Stolypin.jpg|100px]]
+!rowspan=2  scope="row" style="font-weight:normal;" |[[Pyotr Arkadyevich Stolypin]]<br /><small>(1862–1911)</small>
+|rowspan=2 |[[Pyotr Stolypin's Cabinet|•]]
+|rowspan=2 |21 July 1906
+|rowspan=2 |18 September 1911<br /><small>(Died in office)</small>
+|rowspan=2 |[[Independent (politician)|Independent]]
+|[[State Duma (Russian Empire)#Second Duma|II]]<br /><small>([[January 1907 Russian legislative election|Jan 1907]])</small>
+|-
+|rowspan=2 |[[State Duma (Russian Empire)#Third Duma|III]]<br /><small>([[October 1907 Russian legislative election|Oct 1907]])</small>
+|-
+!rowspan=2 align=center style="background: {{Independent (politician)/meta/color}};"| 4
+|rowspan=2|[[File:Vladimir Nikolayevich Kokovtsov.jpg|100px]]
+! scope="row" style="font-weight:normal;" rowspan=2|<small>Count</small><br/>[[Vladimir Nikolayevich Kokovtsov]]<br /><small>(1853–1943)</small>
+|rowspan=2|[[Vladimir Kokovtsov's Cabinet|•]]
+|rowspan=2|22 September 1911
+|rowspan=2|12 February 1914
+|rowspan=2|[[Independent (politician)|Independent]]
+|-
+|rowspan=5 |[[State Duma (Russian Empire)#FourthDuma|IV]]<br /><small>([[1912 Russian legislative election|1912]])</small>
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|(2)
+|[[File:Ivan Logginovitch Goremykin, c. 1906 (cropped).jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Ivan Logginovich Goremykin]]<br /><small>(1839–1917)</small>
+|[[Ivan Goremykin's Second Cabinet|2]]
+| 12 February 1914
+| 2 February 1916
+|[[Independent (politician)|Independent]]
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|5
+|[[File:Штюрмер Б. (Новгородская область).jpg|100px]]
+! scope="row" style="font-weight:normal;" |<small>Baron</small><br/>[[Boris Vladimirovich Shtyurmer]]<br /><small>(1848–1917)</small>
+|[[Boris Stürmer's Cabinet|•]]
+|2 February 1916
+|23 November 1916
+|[[Independent (politician)|Independent]]
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|6
+|[[File:Alexander Trepov.jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Alexander Fyodorovich Trepov]]<br /><small>(1862-1928)</small>
+|[[Alexander Trepov's Cabinet|•]]
+| 23 November 1916
+| 20 January 1917
+|[[Independent (politician)|Independent]]
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|7
+|[[File:Nikolai Dimitrievitch Golitsyn.jpg|100px]]
+! scope="row" style="font-weight:normal;" |<small>Prince</small><br/>[[Nikolai Dmitriyevich Golitsyn]]<br /><small>(1850-1925)</small>
+|[[Nikolai Golitsyn's Cabinet|•]]
+| 20 January 1917
+| 12 March 1917
+|[[Independent (politician)|Independent]]
+|}
+</center>
+
+==Provisional Government/Russian Republic (1917)==
+After the alleged abdication of [[Nicholas II of Russia|Nicholas II]] from the throne in favor of his brother [[Grand Duke Michael Alexandrovich of Russia|Michael]], Michael also abdicated, before the convening of the [[Russian Constituent Assembly|Constituent Assembly]]. On 14 September 1917, the [[Russian Republic]] was proclaimed. At this period, a provisional government was formed and the Prime Minister was the head of state.
+
+{{legend|{{Constitutional Democratic Party/meta/color}}|[[Constitutional Democratic Party]] | border=1px solid #AAAAAA}}
+{{legend|#FF0000|[[Socialist Revolutionary Party]] | border=1px solid #AAAAAA}}
+<center>
+{| class="wikitable" style="text-align:center"
+! colspan=2 | Portrait
+! Name<br/><small>(birth–death)</small>
+! colspan=3 | Term of office
+! Political party
+! Head of state
+|-
+!align=center style="background: {{Constitutional Democratic Party/meta/color}};"|8
+|[[File:Georgy Lvov, 1919 LOC cropped.jpg|100px]]
+! scope="row" style="font-weight:normal;" |<small>Prince</small><br/>[[Georgy Yevgenyevich Lvov]]<br /><small>(1861–1925)</small>
+|[[Russian Provisional Government|•]]
+|15 March 1917
+|21 July 1917
+|[[Constitutional Democratic Party]]
+|'''[[Georgy Lvov]]'''<br />[[File:Georgy Lvov 1918.jpg|133x133px]]<br>{{small|(1917)}}
+|-
+!rowspan=2 style="background:{{Socialist-Revolutionary Party/meta/color}}; color:white" |9
+|rowspan=2|[[File:Alexander Kerensky LOC 24416.jpg|100px]]
+! scope="row" style="font-weight:normal;" rowspan=2|[[Alexander Fyodorovich Kerensky]]<br /><small>(1881–1970)</small>
+|[[Russian Provisional Government#July crisis and second coalition government|1]]
+|21 July 1917
+|14 September 1917
+|rowspan=2|[[Socialist Revolutionary Party]]
+|rowspan=2|'''[[Alexander Kerensky]]'''<br />[[File:Alexander Kerensky LOC 24416.jpg|100px]]<br>{{small|(1917)}}
+|-
+|[[Directorate (Russia)|2]]
+|14 September 1917
+|7 November 1917
+|}
+</center>
+
+==Russian State (1918–1920)==
+The heads of government of the [[Russian State (1918—1920)|Russian State]] during the [[Russian Civil War|Civil War]] were ''de facto'' Prime Ministers in exile.
+
+{{legend|{{Independent politician/meta/color}}|[[Independent politician|Independent]] | border=1px solid #AAAAAA}}
+{{legend|{{Constitutional Democratic Party/meta/color}}|[[Constitutional Democratic Party]] | border=1px solid #AAAAAA}}
+{{legend|#FF0000|[[Socialist Revolutionary Party]] | border=1px solid #AAAAAA}}
+<center>
+{| class="wikitable" style="text-align:center"
+! colspan=2 | Portrait
+! Name<br/><small>(birth–death)</small>
+! colspan=3 | Term of office
+! Political party
+! colspan=2|Head of state
+|-
+! rowspan="2" style="background:{{Socialist-Revolutionary Party/meta/color}}; color:white" |
+| rowspan="2" |[[File:Пётр Васильевич Вологодский.jpg|145x145px]]
+! rowspan="2" |[[Pyotr Vologodsky|Pyotr Vasilyevich Vologodsky]]<br /><small>(1863–1925)</small>
+| rowspan="2" |[[Provisional All-Russian Government|•]]
+| rowspan="2" |18 November 1918
+| rowspan="2" |22 November 1919
+| rowspan="2" |[[Socialist Revolutionary Party]]
+| rowspan="2" |
+|'''[[Nikolai Avksentiev]]'''<br />[[File:Nikolay Avksentyev.jpg|100px]]<br /><small>(1918)</small>
+|-
+|rowspan=2|'''[[Alexander Kolchak]]'''<br />[[File:KolchaksLastPhoto.jpg|100px]]<br /><small>(1918 — 1920)</small>
+|-
+!align=center style="background: {{Constitutional Democratic Party/meta/color}};"|
+|[[File:V.N.Pepeliajev.jpg|139x139px]]
+! scope="row" style="font-weight:normal;" |[[Viktor Pepelyayev|Viktor Nikolayevich Pepelyayev]]<br /><small>(1885-1920)</small>
+|[[Viktor Pepelyayev's Cabinet|•]]
+| 22 November 1919
+| 4 January 1920
+|[[Constitutional Democratic Party]]
+|
+|}
+</center>
+
+== Russian Soviet Federative Socialist Republic (1917–1991) ==
+The [[Russian SFSR]] maintained the title of Prime Minister as head of government.
+
+{{legend|{{Communist Party of the Russian Federation/meta/color}}|[[Communist Party of the Soviet Union|Communist Party]] | border=1px solid #AAAAAA}}
+{{legend|{{Independent politician/meta/color}}|[[Independent politician|Independent]] | border=1px solid #AAAAAA}}
+
+<center>
+{| class="wikitable" style="text-align:center;"
+! colspan=2 | Portrait
+! Name<br/><small>(birth–death)</small>
+! colspan=3 | Term of office
+! Political party
+! Legislature<br /><small>(election)</small>
+! colspan=2|Head of state
+|-
+!rowspan=4 align=center style="background:{{Communist Party of the Russian Federation/meta/color}};"| {{color|white|10}}
+|rowspan=4|[[File:Lenin 1921.jpg|100px]]
+!rowspan=4 scope="row" style="font-weight:normal;" |[[Vladimir Lenin|Vladimir Ilyich Ulyanov]]<br /><small>(1870–1924)</small>
+|rowspan=4|[[Vladimir Lenin's Cabinet|•]]
+|rowspan=4 |8 November 1917
+|rowspan=4 |21 January 1924<br /><small>([[Death and state funeral of Vladimir Lenin|Died in office]])</small>
+|rowspan=4|[[Communist Party of the Soviet Union|Communist Party]]
+|rowspan=8|[[All-Russian Central Executive Committee|ARCEC]]
+|align=center style="background:{{Communist Party of the Russian Federation/meta/color}};"|
+|'''[[Lev Kamenev]]'''<br />[[File:Lev Kamenev 1920s.jpg|100px]]<br /><small>(1917)</small>
+|-
+|align=center style="background:{{Communist Party of the Russian Federation/meta/color}};"|
+|'''[[Yakov Sverdlov]]'''<br />[[File:Yakov Sverdlov crop.jpg|100px]]<br /><small>(1917 — 1919)</small>
+|-
+|align=center style="background:{{Communist Party of the Russian Federation/meta/color}};"|
+|'''[[Mikhail Vladimirsky]]'''<br />[[File:Vladimirskiy Mikhail Fedorovich.jpg|100px]]<br /><small>(1919)</small>
+|-
+|rowspan=5 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=5|'''[[Mikhail Kalinin]]'''<br />[[File:Portrait of Mikhail Kalinin (1922).jpeg|100px]]<br /><small>(1919 — 1938)</small>
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|11}}
+|
+! scope="row" style="font-weight:normal;" |[[Alexey Ivanovich Rykov]]<br /><small>(1881–1938)</small>
+|[[Alexei Rykov's Cabinet|•]]
+| 2 February 1924
+| 18 May 1929
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|12}}
+|[[File:1929-sergey syrtsov.jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Sergey Syrtsov (politician)|Sergey Ivanovich Syrtsov]]<br /><small>(1883–1937)</small>
+|[[Sergey Syrtsov's Cabinet|•]]
+| 18 May 1929
+| 3 November 1930
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|13}}
+|[[File:Даниил Егорович Сулимов.jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Daniil Yegorovich Sulimov]]<br /><small>(1890–1937)</small>
+|[[Daniil Sulimov's Cabinet|•]]
+| width="140" |3 November 1930
+| width="140" |27 July 1937
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|14}}
+|rowspan=2|[[File:Bundesarchiv Bild 183-29921-0001, Bulganin, Nikolai Alexandrowitsch.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Nikolay Alexandrovich Bulganin]]<br /><small>(1895–1975)</small>
+|[[Nikolai Bulganin's First Cabinet|1]]
+|27 July 1937
+|1938
+|rowspan=2|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+|[[Nikolai Bulganin's Second Cabinet|2]]
+|1938
+|17 September 1938
+|rowspan=6|I<br /><small>([[1938 Russian legislative election|1938]])</small>
+|rowspan=4 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=4|'''[[Aleksei Badayev]]'''<br />[[File:Alexey Badaev 1912.jpg|100px]]<br /><small>(1938 — 1944)</small>
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|15}}
+|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+! scope="row" style="font-weight:normal;" |[[Vasily Vasilyevich Vakhrushev]]<br /><small>(1902–1947)</small>
+|[[Vasily Vakhrushev's Cabinet|•]]
+|29 July 1939
+|2 June 1940
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|16}}
+|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+! scope="row" style="font-weight:normal;" |[[Ivan Sergeyevich Khokhlov]]<br /><small>(1895–1973)</small>
+|[[Ivan Khokhlov's Cabinet|•]]
+|2 June 1940
+|5 May 1942
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|17}}
+|rowspan=2| [[File:A. Kosygin 1967.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Alexey Nikolayevich Kosygin]]<br /><small>(1904–1980)</small>
+|rowspan=2|[[Alexei Kosygin's Cabinet|•]]
+|rowspan=2 |2 May 1943
+|rowspan=2 |23 March 1946
+|rowspan=2|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+|rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=2|'''[[Nikolay Shvernik]]'''<br />[[File:Николай Михайлович Шверник.jpg|100px]]<br /><small>(1944 — 1946)</small>
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|18}}
+|rowspan=2|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Mikhail Ivanovich Rodionov]]<br /><small>(1907–1950)</small>
+|[[Mikhail Rodionov's First Cabinet|1]]
+|23 March 1946
+|1947
+|rowspan=2|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+|[[Mikhail Rodionov's Second Cabinet|2]]
+|1947
+|9 March 1949
+|rowspan=2|II<br /><small>([[1947 Russian legislative election|1947]])</small>
+|rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=2|'''[[Ivan Vlasov]]'''<br />[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]<br /><small>(1946 — 1950)</small>
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|19}}
+|rowspan=2|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Boris Nikolayevich Chernousov]]<br /><small>(1908–1978)</small>
+|[[Boris Chernousov's First Cabinet|1]]
+|9 March 1949
+|1951
+|rowspan=2|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+|[[Boris Chernousov's Second Cabinet|2]]
+|1951
+|20 October 1952
+|rowspan=2|III<br /><small>([[1951 Russian legislative election|1951]])</small>
+|rowspan=5 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=5|'''[[Mikhail Tarasov (politician)|Mikhail Tarasov]]'''<br />[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]<br /><small>(1950 — 1959)</small>
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|20}}
+|rowspan=2 |[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+!rowspan=2  scope="row" style="font-weight:normal;" |[[Alexander Mikhailovich Puzanov]]<br /><small>(1906–1998)</small>
+|[[Alexander Puzanov's First Cabinet|1]]
+|20 October 1952
+|1955
+|rowspan=2 |[[Communist Party of the Soviet Union|Communist Party]]
+|-
+|[[Alexander Puzanov's Second Cabinet|2]]
+|1955
+|24 January 1956
+|rowspan=5|IV<br /><small>([[1955 Russian legislative election|1955]])</small>
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|21}}
+|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+! scope="row" style="font-weight:normal;" |[[Mikhail Alexeyevich Yasnov]]<br /><small>(1906–1991)</small>
+|[[Mikhail Yasnov's Cabinet|•]]
+| 24 January 1956
+| 19 December 1957
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|22}}
+|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+! scope="row" style="font-weight:normal;" |[[Frol Romanovich Kozlov]]<br /><small>(1908–1965)</small>
+|[[Frol Kozlov's Cabinet|•]]
+|19 December 1957
+|31 March 1958
+|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+!rowspan=3 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|23}}
+|rowspan=3|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+!rowspan=3 scope="row" style="font-weight:normal;" |[[Dmitry Stepanovich Polyansky]]<br /><small>(1917–2001)</small>
+|rowspan=2|[[Dmitry Polyansky's First Cabinet|1]]
+|rowspan=2|31 March 1958
+|rowspan=2|1959
+|rowspan=3|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+| align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|'''[[Nikolay Ignatov]]'''<br />[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]<br /><small>(1959)</small>
+|-
+|[[Dmitry Polyansky's Second Cabinet|2]]
+|1959
+|23 November 1962
+|rowspan=3|V<br /><small>([[1959 Russian legislative election|1959]])</small>
+|rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=2|'''[[Nikolay Organov]]'''<br />[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]<br /><small>(1959 – 1962)</small>
+|-
+!rowspan=5 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|24}}
+|rowspan=5|[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]
+!rowspan=5 scope="row" style="font-weight:normal;" |[[Gennady Ivanovich Voronov]]<br /><small>(1910–1994)</small>
+|rowspan=2|[[Gennady Voronov's First Cabinet|1]]
+|rowspan=2|23 November 1962
+|rowspan=2|1963
+|rowspan=5|[[Communist Party of the Soviet Union|Communist Party]]
+|-
+|rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=2|'''[[Nikolay Ignatov]]'''<br />[[File:Emblem of the Russian SFSR (1920-1978).svg|100px]]<br /><small>(1962 – 1966)</small>
+|-
+|rowspan=2|[[Gennady Voronov's Second Cabinet|2]]
+|rowspan=2|1963
+|rowspan=2|1967
+|rowspan=2|VI<br /><small>([[1963 Russian legislative election|1963]])</small>
+|-
+|rowspan=6 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|rowspan=6|'''[[Mikhail Yasnov]]'''<br />[[File:Emblem of the Russian SFSR.svg|100px]]<br /><small>(1966 – 1985)</small>
+|-
+|[[Gennady Voronov's Third Cabinet|3]]
+|1967
+|23 July 1971
+|VII<br /><small>([[1971 Russian legislative election|1967]])</small>
+|-
+!rowspan=3 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|25}}
+|rowspan=3|[[File:Emblem of the Russian SFSR.svg|100px]]
+!rowspan=3 scope="row" style="font-weight:normal;" |[[Mikhail Sergeyevich Solomentsev]]<br /><small>(1913–2008)</small>
+|[[Mikhail Solomentsev's First Cabinet|1]]
+|28 July 1971
+|1975
+|rowspan=3|[[Communist Party of the Soviet Union|Communist Party]]
+|VIII<br /><small>([[1971 Russian legislative election|1971]])</small>
+|-
+|[[Mikhail Solomentsev's Second Cabinet|2]]
+|1975
+|1980
+|IX<br /><small>([[1975 Russian legislative election|1975]])</small>
+|-
+|[[Mikhail Solomentsev's Third Cabinet|3]]
+|1980
+|24 June 1983
+|rowspan=2|X<br /><small>([[1980 Russian legislative election|1980]])</small>
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|26}}
+|rowspan=2|[[File:Emblem of the Russian SFSR.svg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Vitaly Ivanovich Vorotnikov]]<br /><small>(1926–2012)</small>
+|[[Vitaly Vorotnikov's First Cabinet|1]]
+|24 June 1983
+|1985
+|rowspan=2| [[Communist Party of the Soviet Union|Communist Party]]
+|-
+| [[Vitaly Vorotnikov's Second Cabinet|2]]
+|1985
+|3 October 1988
+|rowspan=3|XI<br /><small>([[1985 Russian legislative election|1985]])</small>
+| align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|'''[[Vladimir Orlov (politician)|Vladimir Orlov]]'''<br />[[File:Emblem of the Russian SFSR.svg|100px]]<br /><small>(1985 – 1988)</small>
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|27}}
+|rowspan=2|[[File:Emblem of the Russian SFSR.svg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Aleksandr Vlasov (politician)|Alexander Vladimirovich Vlasov]]<br /><small>(1932–2002)</small>
+|rowspan=2|[[Alexander Vlasov's Cabinet|•]]
+|rowspan=2 |3 October 1988
+|rowspan=2 |15 June 1990
+|rowspan=2|[[Communist Party of the Soviet Union|Communist Party]]
+|align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"|
+|'''[[Vitaly Vorotnikov]]'''<br />[[File:Emblem of the Russian SFSR.svg|100px]]<br /><small>(1988 – 1990)</small>
+|-
+|rowspan=4 align=center style="background: {{Independent politician/meta/color}};"|
+|rowspan=4|'''[[Boris Yeltsin]]'''<br />[[File:Борис Николаевич Ельцин.jpg|100px]]<br /><small>(1990 – 1991)</small>
+|-
+!rowspan=2 align=center style="background: {{Communist Party of the Russian Federation/meta/color}};"| {{color|white|28}}
+|rowspan=2|[[File:Emblem of the Russian SFSR.svg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal"|[[Ivan Stepanovich Silayev]]<br /><small>(1930–)</small>
+|[[Ivan Silayev's First Cabinet|1]]
+|15 June 1990
+|11 July 1991
+|rowspan=2|[[Communist Party of the Soviet Union|Communist Party]]
+|rowspan=3|XII<br /><small>([[1990 Russian legislative election|1990]])</small>
+|-
+|[[Ivan Silayev's Second Cabinet|2]]
+|12 July 1991
+|26 September 1991
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|P<br />{{NoteTag|Headed the government as President of Russia, was not the Prime Minister.}}
+|[[File:Boris Yeltsin in 1994.PNG|100px]]
+! scope="row" style="font-weight:normal;" |[[Boris Nikolayevich Yeltsin]]<br /><small>(1931–2007)</small>
+|[[Cabinet of Boris Yeltsin and Yegor Gaidar|•]]
+|6 November 1991
+|25 December 1991
+|[[Independent (politician)|Independent]]
+|}
+</center>
+
+== Russian Federation (1991–present) ==
+After the [[collapse of the Soviet Union]], the first head of government of post-Soviet Russia was [[Boris Yeltsin]] while the head of state was changed to the title of [[President of the Russian Federation]], also held by Yeltsin.
+{{legend|{{Independent politician/meta/color}}|[[Independent politician|Independent]] | border=1px solid #AAAAAA}}
+{{legend|{{Our Home is Russia/meta/color}}|[[Our Home – Russia]] | border=1px solid #AAAAAA}}
+{{legend|skyblue|[[Fatherland – All Russia]] | border=1px solid #AAAAAA}}
+{{legend|{{Unity (political party, Russia)/meta/color}}|[[Unity (Russian political party)|Unity]] | border=1px solid #AAAAAA}}
+{{legend|{{United Russia/meta/color}}|[[United Russia]] | border=1px solid #AAAAAA}}
+
+<center>
+{| class="wikitable" style="text-align:center;"
+! colspan=2 | Portrait
+! Name<br/><small>(birth–death)</small>
+! colspan=3 | Term of office
+! Political party
+! Legislature<br /><small>(election)</small>
+! colspan=2|President
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|P
+|[[File:Boris Yeltsin in 1994.PNG|100px]]
+! scope="row" style="font-weight:normal;" |[[Boris Yeltsin|Boris Nikolayevich Yeltsin]]<br /><small>(1931–2007)</small>
+|[[Cabinet of Boris Yeltsin and Yegor Gaidar|•]]
+|25 December 1991
+|15 June 1992
+|[[Independent politician|Independent]]
+|rowspan=2|XII<br /><small>([[1990 Russian legislative election|1990]])</small>
+|rowspan=9 align=center style="background: {{Independent (politician)/meta/color}};"|
+|rowspan=9|'''[[Boris Yeltsin]]'''<br />[[File:Борис Николаевич Ельцин.jpg|100px]]<br /><small>(1991–1999)</small>
+|-
+!rowspan=4 align=center style="background: {{Our Home is Russia/meta/color}};"| {{color|white|29}}
+|rowspan=4|[[File:Viktor Chernomyrdin-1.jpg|100px]]
+! scope="row" style="font-weight:normal;" rowspan=4|[[Viktor Chernomyrdin|Viktor Stepanovich Chernomyrdin]]<br /><small>(1938–2010)</small>
+|rowspan=3|[[Viktor Chernomyrdin's First Cabinet|1]]
+|rowspan=3| 14 December 1992
+|rowspan=3|9 August 1996
+|rowspan=4|[[Our Home – Russia]]
+|-
+|[[1st State Duma of the Russian Federation|I]]<br /><small>([[1993 Russian legislative election|1993]])</small>
+|-
+|rowspan=6|[[2nd State Duma of the Russian Federation|II]]<br /><small>([[1995 Russian legislative election|1995]])</small>
+|-
+|[[Viktor Chernomyrdin's Second Cabinet|2]]
+|10 August 1996
+|23 March 1998
+|-
+! align=center style="background: {{Independent (politician)/meta/color}};"|30
+|[[File:Sergei Kirienko - World Economic Forum Annual Meeting Davos 2000 (cropped).jpg|100px]]
+! scope="row" style="font-weight:normal;"|[[Sergey Kiriyenko|Sergey Vladilenovich Kiriyenko]]<br /><small>(1962–)</small>
+|[[Sergei Kiriyenko's Cabinet|•]]
+| 24 April 1998
+| 23 August 1998
+|[[Independent politician|Independent]]
+|-
+!align=center style="background: skyblue;"| 31
+|[[File:E Primakov 03 (cropped).jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Yevgeny Primakov|Yevgeny Maximovich Primakov]]<br /><small>(1929–2015)</small>
+|[[Yevgeny Primakov's Cabinet|•]]
+| 11 September 1998
+| 12 May 1999
+|[[Fatherland – All Russia]]
+|-
+!align=center style="background: {{Independent (politician)/meta/color}};"|32
+|[[File:Krievijas Revīzijas palātas priekšsēdētājs (4187361112).jpg|100px]]
+! scope="row" style="font-weight:normal;" |[[Sergey Stepashin|Sergey Vadimovich Stepashin]]<br /><small>(1952–)</small>
+|[[Sergei Stepashin's Cabinet|•]]
+|19 May 1999
+|9 August 1999
+|[[Independent politician|Independent]]
+|-
+!rowspan=2 align=center style="background: {{Unity (political party, Russia)/meta/color}};"| {{color|white|33}}
+|rowspan=2|[[File:2008-08-29 Владимир Путин (4).jpeg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;"|[[Vladimir Putin|Vladimir Vladimirovich Putin]]<br /><small>(1952–)</small>
+|rowspan=2|[[Vladimir Putin's First Cabinet|1]]
+|rowspan=2|16 August 1999
+|rowspan=2|7 May 2000
+|rowspan=2|[[Unity (Russian political party)|Unity]]
+|-
+|rowspan=2|[[3rd State Duma of the Russian Federation|III]]<br /><small>([[1999 Russian legislative election|1999]])</small>
+|rowspan=7 align=center style="background: {{Independent politician/meta/color}};"|
+|rowspan=7|'''[[Vladimir Putin]]'''<br />[[File:Vladimir Vladimirovich Putin.jpg|100px]]<br /><small>(2000–2008)</small><br />{{NoteTag|Putin de facto took this position on 31 December 1999, when he became [[Acting President of Russia|Acting President]] after the resignation of Boris Yeltsin. Elected President on 26 March 2000, officially took office on 7 May 2000.}}
+|-
+!rowspan=2 align=center style="background: {{Independent (politician)/meta/color}};"|34
+|rowspan=2|[[File:Mikhail Kasyanov par Claude Truong-Ngoc mars 2015.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;"|[[Mikhail Kasyanov|Mikhail Mikhailovich Kasyanov]]<br /><small>(1957–)</small>
+|rowspan=2|[[Mikhail Kasyanov's Cabinet|•]]
+|rowspan=2|17 May 2000
+|rowspan=2|24 February 2004
+|rowspan=2|[[Independent politician|Independent]]
+|-
+|rowspan=4|[[4th State Duma of the Russian Federation|IV]]<br /><small>([[2003 Russian legislative election|2003]])</small>
+|-
+!rowspan=2 align=center style="background: {{Independent (politician)/meta/color}};"|35
+|rowspan=2|[[File:Mikhail Fradkov (Brasília, 04 April 2006).jpeg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Mikhail Fradkov|Mikhail Yefimovich Fradkov]]<br /><small>(1950–)</small>
+|[[Mikhail Fradkov's First Cabinet|1]]
+|5 March 2004
+|7 May 2004
+|rowspan=2|[[Independent politician|Independent]]
+|-
+|[[Mikhail Fradkov's Second Cabinet|2]]
+|12 May 2004
+|14 September 2007
+|-
+!rowspan=2 align=center style="background: {{United Russia/meta/color}};"| {{color|white|36}}
+|rowspan=2|[[File:Viktor Zoebkov cropped.jpg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Viktor Zubkov|Viktor Alexeyevich Zubkov]]<br /><small>(1941–)</small>
+|rowspan=2|[[Viktor Zubkov's Cabinet|•]]
+|rowspan=2|14 September 2007
+|rowspan=2|7 May 2008
+|rowspan=2|[[United Russia]]
+|-
+|rowspan=2|[[5th State Duma of the Russian Federation|V]]<br /><small>([[2007 Russian legislative election|2007]])</small>
+|-
+!rowspan=2 align=center style="background: {{United Russia/meta/color}};"| {{color|white|(33)}}
+|rowspan=2|[[File:2008-08-29 Владимир Путин (4).jpeg|100px]]
+!rowspan=2 scope="row" style="font-weight:normal;" |[[Vladimir Putin|Vladimir Vladimirovich Putin]]<br /><small>(1952–)</small>
+|rowspan=2|[[Vladimir Putin's Second Cabinet|2]]
+|rowspan=2|8 May 2008
+|rowspan=2|7 May 2012
+|rowspan=2|[[United Russia]]
+|rowspan=2 align=center style="background: {{United Russia/meta/color}};"|
+|rowspan=2| '''[[Dmitry Medvedev]]'''<br />[[File:Dmitry Anatolyevich Medvedev.jpg|100px]]<br /><small>(2008–2012)</small>
+|-
+|rowspan=2|[[6th State Duma of the Russian Federation|VI]]<br /><small>([[2011 Russian legislative election|2011]])</small>
+|-
+!rowspan=3 align=center style="background: {{United Russia/meta/color}};"| {{color|white|37}}
+|rowspan=3| [[File:Dmitry Medvedev 2016.jpg|100px]]
+!rowspan=3 scope="row" style="font-weight:normal;" |[[Dmitry Medvedev|Dmitry Anatolyevich Medvedev]]<br /><small>(1965–)</small>
+|rowspan=2|[[Dmitry Medvedev's First Cabinet|1]]
+|rowspan=2| 8 May 2012
+|rowspan=2| 7 May 2018
+|rowspan=3|[[United Russia]]
+|rowspan=2 align=center style="background: {{United Russia/meta/color}};"|
+|rowspan=4|'''[[Vladimir Putin]]'''<br />[[File:Vladimir Vladimirovich Putin (2nd Presidency).jpg|100px]]<br /><small>(2012–)</small>
+|-
+|rowspan=3|[[7th State Duma of the Russian Federation|VII]]<br /><small>([[2016 Russian legislative election|2016]])</small>
+|-
+|[[Dmitry Medvedev's Second Cabinet|2]]
+|8 May 2018
+|15 January 2020
+|rowspan=2 align=center style="background: {{Independent politician/meta/color}};"|
+|-
+!align=center style="background: {{Independent politician/meta/color}};"| 38
+|[[File:Mikhail Mishustin (2020-07-09).jpg|139x139px]]
+!scope="row" style="font-weight:normal;" |[[Mikhail Mishustin|Mikhail Vladimirovich Mishustin]]<br /><small>(1966–)</small>
+|[[Mikhail Mishustin's Cabinet|•]]
+|16 January 2020
+|Incumbent
+|[[Independent politician|Independent]]
+|}
+</center>
+
+==Acting Prime Ministers==
+*[[Vladimir Kokovtsov]]: 18–22 September 1911
+*[[Konstantin Pamfilov]]: 5 May 1942 – 2 May 1943
+*[[Oleg Lobov]]: 26 September – 6 November 1991
+*[[Yegor Gaidar]]: 15 June – 14 December 1992
+*[[Sergey Kiriyenko]]: 23 March – 24 April 1998
+*[[Viktor Chernomyrdin]]: 9–10 August 1996 and 23 August – 11 September 1998
+*[[Sergey Stepashin]]: 12–19 May 1999
+*[[Vladimir Putin]]: 9–16 August 1999
+*[[Mikhail Kasyanov]]: 7–17 May 2000
+*[[Viktor Khristenko]]: 24 February – 5 March 2004
+*[[Mikhail Fradkov]]: 7–12 May 2004 and 12–14 September 2007
+*[[Viktor Zubkov]]: 7–8 May 2008 and 7–8 May 2012
+*[[Dmitry Medvedev]]: 7–8 May 2018 and 15–16 January 2020
+*[[Andrey Belousov]]: 30 April – 19 May 2020.
+
+==Living former Prime Ministers==
+As of {{currentmonth}} {{currentyear}}, there are eight living former Prime Ministers. The most recent death of a former Prime Minister was that of Yevgeny Primakov (1998–1999) on 26 June 2015, aged 85.
+
+{| class="wikitable sortable"
+|-
+!Name!!Term of office!!Born
+|-
+|[[Ivan Silayev]]
+|1990–1991
+|{{birth date and age|df=yes|1930|10|21|}}
+|-
+|[[Sergey Kiriyenko]]
+|1998
+|{{birth date and age|df=yes|1962|7|26|}}
+|-
+|[[Sergei Stepashin]]
+|1999
+|{{birth date and age|df=yes|1952|3|2|}}
+|-
+|[[Vladimir Putin]]
+|1999–2000 and 2008–2012
+|{{birth date and age|df=yes|1952|10|7|}}
+|-
+|[[Mikhail Kasyanov]]
+|2000–2004
+|{{birth date and age|df=yes|1957|12|8|}}
+|-
+|[[Mikhail Fradkov]]
+|2004–2007
+|{{birth date and age|df=yes|1950|9|1|}}
+|-
+|[[Viktor Zubkov]]
+|2007–2008
+|{{birth date and age|df=yes|1941|9|15|}}
+|-
+|[[Dmitry Medvedev]]
+|2012–2020
+|{{birth date and age|df=yes|1965|9|14|}}
+|}
+
+==Timeline==
+<timeline>
+ImageSize = width:1500 height:auto barincrement:12
+PlotArea = top:10 bottom:50 right:350 left:20
+AlignBars = late
+
+DateFormat = yyyy
+Period = from:1720 till:2020
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:1726
+
+Colors =
+  id:imperial   value:rgb(1,0.5,0)   legend: imperial
+  id:provisional  value:rgb(0.5,0.5,0.5)   legend: provisional
+  id:soviet value:rgb(1,0,0)  legend: soviet
+  id:postsoviet value:rgb(0.5,0.5,1)  legend: post-soviet
+
+Legend = columns:4 left:150 top:24 columnwidth:100
+
+TextData =
+  pos:(20,27) textcolor:black fontsize:M
+  text:"Historical eras:"
+
+BarData =
+  barset:PM
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+  barset:PM
+
+ from: 1726 till: 1727 color:imperial text:"[[Alexander Danilovich Menshikov|Menshikov]]" fontsize:10
+ from: 1726 till: 1727 color:imperial text:"[[Fyodor Matveyvich Apraksin|F.M. Apraksin]]" fontsize:10
+ from: 1726 till: 1727 color:imperial text:"[[Gavriil Ivanovich Golovkin|Golovkin]]" fontsize:10
+ from: 1726 till: 1727 color:imperial text:"[[Andrey Ivanovich Osterman|Osterman]]" fontsize:10
+ from: 1726 till: 1727 color:imperial text:"[[Dmitry Mikhaylovich Golitsyn|D.M. Golitsyn]]" fontsize:10
+ from: 1726 till: 1727 color:imperial text:"[[Pyotr Andreyvich Tolstoy|Tolstoy]]" fontsize:10
+ from: 1726 till: 1727 color:imperial text:"[[Charles Frederick, Duke of Holstein-Gottorp|K.F. Golshteyn-Gottorpsky]]" fontsize:10
+ from: 1728 till: 1730 color:imperial text:"[[Aleksey Grigoryevich Dolgorukov|A.G. Dolgorukov]]" fontsize:10
+ from: 1729 till: 1730 color:imperial text:"[[Vasily Lukich Dolgorukov|V.L. Dolgorukov]]" fontsize:10
+ from: 1730 till: 1730 color:imperial text:"[[Vasily Vladimirovich Dolgorukov|V.V. Dolgorukov]]" fontsize:10
+ from: 1730 till: 1730 color:imperial text:"[[Mikhail Mikhaylovich Golitsyn|M.M. Golitsyn]]" fontsize:10
+ from: 1731 till: 1734 color:imperial text:"Golovkin" fontsize:10
+ from: 1734 till: 1740 color:imperial text:"Osterman" fontsize:10
+ from: 1740 till: 1741 color:imperial text:"[[Burkhard Christoph von Münnich|Minikh]]" fontsize:10
+ from: 1741 till: 1741 color:imperial text:"Osterman" fontsize:10
+ from: 1756 till: 1757 color:imperial text:"[[Stepan Fyodorovich Apraksin|S.F. Apraksin]]" fontsize:10
+ from: 1756 till: 1757 color:imperial text:"[[Mikhail Petrovich Bestuzhev-Ryumin|M.P. Bestuzhev-Ryumin]]" fontsize:10
+ from: 1756 till: 1757 color:imperial text:"[[Mikhail Mikhailovich Golitsyn|M.M. Golitsyn]]" fontsize:10
+ from: 1756 till: 1758 color:imperial text:"[[Alexey Petrovich Bestuzhev-Ryumin|A.P. Bestuzhev-Ryumin]]" fontsize:10
+ from: 1756 till: 1760 color:imperial text:"[[Alexander Borisovich Buturlin|Buturlin]]" fontsize:10
+ from: 1756 till: 1762 color:imperial text:"[[Peter Ivanovich Shuvalov|P.I. Shuvalov]]" fontsize:10
+ from: 1756 till: 1762 color:imperial text:"[[Mikhail Illarionovich Vorontsov|M.I. Vorontsov]]" fontsize:10
+ from: 1756 till: 1762 color:imperial text:"[[Nikita Yuryevich Trubetskoy|Trubetskoy]]" fontsize:10
+ from: 1756 till: 1762 color:imperial text:"[[Alexander Ivanovich Shuvalov|A.I. Shuvalov]]" fontsize:10
+ from: 1756 till: 1762 color:imperial text:"[[Peter III of Russia|Romanov]]" fontsize:10
+ from: 1760 till: 1761 color:imperial text:"[[Yakov Petrovich Shakhovsky|Shakhovsky]]" fontsize:10
+ from: 1760 till: 1762 color:imperial text:"[[Ivan Ivanovich Nepluyev|Nepluyev]]" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"[[Roman Illarionovich Vorontsov|R.I. Vorontsov]]" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"[[Prince Georg Ludwig of Holstein-Gottorp|G.L. Golshteyn-Gottorpsky]]" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"[[Peter August, Duke of Schleswig-Holstein-Sonderburg-Beck|Golshteyn-Beksky]]" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"Minikh" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"Trubetskoy" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"M.I. Vorontsov" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"[[Aleksandr Nikitich Vilbua|Vilbua]]" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"[[Mikhail Nikitich Volkonsky|Volkonsky]]" fontsize:10
+ from: 1761 till: 1762 color:imperial text:"[[Aleksey Petrovich Melgunov|Melgunov]]" fontsize:10
+ from: 1768 till: 1776 color:imperial text:"S.F. Strekalov" fontsize:10
+ from: 1776 till: 1787 color:imperial text:"[[Alexander Nikolayevich Samoylov|Samoylov]]" fontsize:10
+ from: 1787 till: 1796 color:imperial text:"[[Ivan Andreyevich Veydemeyer|Veydemyer]]" fontsize:10
+ from: 1796 till: 1796 color:imperial text:"[[Gavriil Romanovich Derzhavin|Derzhavin]]" fontsize:10
+ from: 1796 till: 1801 color:imperial text:"Veydemeyer" fontsize:10
+ from: 1810 till: 1812 color:imperial text:"[[Nikolay Petrovich Rumyantsev|Rumyantsev]]" fontsize:10
+ from: 1812 till: 1816 color:imperial text:"[[Nikolay Ivanovich Saltykov|Saltykov]]" fontsize:10
+ from: 1816 till: 1827 color:imperial text:"[[Pyotr Vasilyevich Lopukhin|Lopukhin]]" fontsize:10
+ from: 1827 till: 1834 color:imperial text:"[[Viktor Pavlovich Kochubey|Kochubey]]" fontsize:10
+ from: 1834 till: 1838 color:imperial text:"[[Nikolay Nikolayevich Novosiltsev|Novosiltsev]]" fontsize:10
+ from: 1838 till: 1847 color:imperial text:"[[Illarion Vasilyevich Vasilchikov|Vasilchikov]]" fontsize:10
+ from: 1847 till: 1848 color:imperial text:"[[Vasily Vasilyevich Levashov|Levashov]]" fontsize:10
+ from: 1848 till: 1856 color:imperial text:"[[Alexander Ivanovich Chernyshyov|Chernyshyov]]" fontsize:10
+ from: 1857 till: 1861 color:imperial text:"[[Alexey Fyodorovich Orlov|Orlov]]" fontsize:10
+ from: 1861 till: 1864 color:imperial text:"[[Dmitry Nikolayevich Bludov|Bludov]]" fontsize:10
+ from: 1864 till: 1872 color:imperial text:"[[Pavel Pavlovich Gagarin|Gagarin]]" fontsize:10
+ from: 1872 till: 1879 color:imperial text:"[[Pavel Nikolayevich Ignatyev|Ignatyev]]" fontsize:10
+ from: 1879 till: 1881 color:imperial text:"[[Pyotr Aleksandrovich Valuyev|Valuyev]]" fontsize:10
+ from: 1881 till: 1886 color:imperial text:"[[Mikhail Khristoforovich Reytern|Reytern]]" fontsize:10
+ from: 1887 till: 1895 color:imperial text:"[[Nikolay Khristianovich Bunge|Bunge]]" fontsize:10
+ from: 1895 till: 1903 color:imperial text:"[[Ivan Nikolayevich Durnovo|Durnovo]]" fontsize:10
+ from: 1903 till: 1906 color:imperial text:"[[Sergei Yulyevich Witte|Witte]]" fontsize:10
+ from: 1905 till: 1906 color:imperial text:"Witte" fontsize:10
+ from: 1906 till: 1906 color:imperial text:"[[Ivan Logginovich Goremykin|Goremykin]]" fontsize:10
+ from: 1906 till: 1911 color:imperial text:"[[Pyotr Arkadyevich Stolypin|Stolypin]]" fontsize:10
+ from: 1911 till: 1914 color:imperial text:"[[Vladimir Nikolayevich Kokovtsov|Kokovtsov]]" fontsize:10
+ from: 1914 till: 1916 color:imperial text:"Goremykin" fontsize:10
+ from: 1916 till: 1916 color:imperial text:"[[Boris Vladimirovich Shtyurmer|Shtyurmer]]" fontsize:10
+ from: 1916 till: 1917 color:imperial text:"[[Alexander Fyodorovich Trepov|Trepov]]" fontsize:10
+ from: 1917 till: 1917 color:imperial text:"[[Nikolay Dmitriyevich Golitsyn|Golitsyn]]" fontsize:10
+ from: 1917 till: 1917 color:provisional text:"[[Georgy Lvov|Lvov]]" fontsize:10
+ from: 1917 till: 1917 color:provisional text:"[[Alexander Kerensky|Kerensky]]" fontsize:10
+ from: 1917 till: 1924 color:soviet text:"[[Vladimir Lenin|Lenin]]" fontsize:10
+ from: 1924 till: 1929 color:soviet text:"[[Alexei Rykov|Rykov]]" fontsize:10
+ from: 1929 till: 1930 color:soviet text:"[[Sergey Syrtsov (politician)|Syrtsov]]" fontsize:10
+ from: 1930 till: 1937 color:soviet text:"[[Daniil Sulimov|Sulimov]]" fontsize:10
+ from: 1937 till: 1938 color:soviet text:"[[Nikolai Bulganin|Bulganin]]" fontsize:10
+ from: 1939 till: 1940 color:soviet text:"[[Vasiliy Vakhrushev|Vakhrushev]]" fontsize:10
+ from: 1940 till: 1943 color:soviet text:"[[Ivan Khokhlov|Khokhlov]]" fontsize:10
+ from: 1942 till: 1943 color:soviet text:"[[Konstantin Pamfilov|Pamfilov]] (acting)" fontsize:10
+ from: 1943 till: 1946 color:soviet text:"[[Alexey Kosygin|Kosygin]]" fontsize:10
+ from: 1946 till: 1949 color:soviet text:"[[Mikhail Rodionov (politician)|Rodionov]]" fontsize:10
+ from: 1949 till: 1952 color:soviet text:"[[Boris Chernousov|Chernousov]]" fontsize:10
+ from: 1952 till: 1956 color:soviet text:"[[Alexander Puzanov|Puzanov]]" fontsize:10
+ from: 1956 till: 1957 color:soviet text:"[[Mikhail Yasnov|Yasnov]]" fontsize:10
+ from: 1957 till: 1958 color:soviet text:"[[Frol Kozlov|Kozlov]]" fontsize:10
+ from: 1958 till: 1962 color:soviet text:"[[Dmitry Polyansky|Polyansky]]" fontsize:10
+ from: 1962 till: 1971 color:soviet text:"[[Gennady Voronov|Voronov]]" fontsize:10
+ from: 1971 till: 1983 color:soviet text:"[[Mikhail Solomentsev|Solomentsev]]" fontsize:10
+ from: 1983 till: 1988 color:soviet text:"[[Vitaly Vorotnikov|Vorotnikov]]" fontsize:10
+ from: 1988 till: 1990 color:soviet text:"[[Alexander Vlasov (politician)|Vlasov]]" fontsize:10
+ from: 1990 till: 1991 color:soviet text:"[[Ivan Silayev|Silayev]]" fontsize:10
+ from: 1991 till: 1991 color:postsoviet text:"[[Oleg Lobov|Lobov]] (acting)" fontsize:10
+ from: 1991 till: 1992 color:postsoviet text:"[[Boris Yeltsin|Yeltsin]]" fontsize:10
+ from: 1992 till: 1992 color:postsoviet text:"[[Yegor Gaidar|Gaidar]]" fontsize:10
+ from: 1992 till: 1998 color:postsoviet text:"[[Viktor Chernomyrdin|Chernomyrdin]]" fontsize:10
+ from: 1998 till: 1998 color:postsoviet text:"[[Sergei Kiriyenko|Kiriyenko]]" fontsize:10
+ from: 1998 till: 1998 color:postsoviet text:"Chernomyrdin (acting)" fontsize:10
+ from: 1998 till: 1999 color:postsoviet text:"[[Yevgeny Primakov|Primakov]]" fontsize:10
+ from: 1999 till: 1999 color:postsoviet text:"[[Sergei Stepashin|Stepashin]]" fontsize:10
+ from: 1999 till: 2000 color:postsoviet text:"[[Vladimir Putin|Putin]]" fontsize:10
+ from: 2000 till: 2004 color:postsoviet text:"[[Mikhail Kasyanov|Kasyanov]]" fontsize:10
+ from: 2004 till: 2004 color:postsoviet text:"[[Viktor Khristenko|Khristenko]] (acting)" fontsize:10
+ from: 2004 till: 2007 color:postsoviet text:"[[Mikhail Fradkov|Fradkov]]" fontsize:10
+ from: 2007 till: 2008 color:postsoviet text:"[[Viktor Zubkov|Zubkov]]" fontsize:10
+ from: 2008 till: 2012 color:postsoviet text:"Putin" fontsize:10
+ from: 2012 till: 2020 color:postsoviet text:"[[Dmitry Medvedev|Medvedev]]" fontsize:10
+ from: 2020 till: end color:postsoviet text:"[[Mikhail Mishustin|Mishustin]]" fontsize:10
+ from: 2020 till: end color:postsoviet text:"[[Andrey Belousov|Belousov]] (acting)" fontsize:10
+</timeline>
+
+== See also ==
+* [[Prime Minister of Russia]]
+* [[Politics of Russia]]
+* [[Government of Russia]]
+* [[Premier of the Soviet Union]]
+* [[Bald–hairy]]
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* {{cite book |editor=S. M. Seredonin |script-title = ru:Т. 1 : Комитет министров в царствование императора Александра Первого (1802 г. сентября 8 – 1825 г. ноября 19). – 1902. |trans-title=Vol. 1: Committee of Ministers During the Reign of Emperor Aleksandr the First (8 September 1802 – 19 November 1825). – 1902 |url = http://shpl.dlibrary.org/ru/nodes/3756-t-1-komitet-ministrov-v-tsarstvovanie-imperatora-aleksandra-pervogo-1802-g-sentyabrya-8-1825-g-noyabrya-19-1902#page/21/mode/inspect/zoom/4 |volume=1 |year=1902 |publisher=Government Public Historical Library of Russia |language=ru }}
+* {{cite book |script-title=ru:История отечества |trans-title=History of the Fatherland |editor1=B. Yu. Ivanov |editor2=B. M. Karev |editor3=E. I. Kuksina |editor4=A. S. Oreshnikov |editor5=O. V. Sukhareva |year=1999 |publisher=Большая Российская энциклопедия (Large Russian Encyclopedia) |pages=554–576|location=Moscow|language=Russian}}
+* {{cite book |script-title=ru:Новый энциклопедический словарь |trans-title=New Encyclopedic Dictionary |editor=K. K. Arsenyev |publisher=F. A. Brockhaus and I. A. Efron |url = https://ru.wikisource.org/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C |volume=1–29 |year=1911–1916 |location=Saint Petersburg |language=ru }}
+* [[Alexander Alexandrovich Polovtsov|A. A. Polovtsov]], ed. (1896–1918). ''[https://ru.wikisource.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C Русский биографический словарь]'' ([[Russian Biographical Dictionary]]) (in Russian). Saint Petersburg: Russian Imperatorial Historical Society of Saint Petersburg
+{{refend}}
+
+== External links ==
+* [http://www.archontology.org/nations/ussr/ Heads of State and Government of the Soviet Union (1922–1991)]
+
+{{Current Russian Cabinet}}
+{{Heads of government of Russia}}
+{{Lists of Russians|state=collapsed}}
+
+[[Category:Lists of heads of government|Russia]]
+[[Category:Government of Russia|Heads of government]]
+[[Category:Heads of government of Russia|*]]
+[[Category:Lists of political office-holders in Russia|Heads of government]]
