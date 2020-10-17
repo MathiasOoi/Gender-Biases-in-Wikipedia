@@ -4,7 +4,7 @@ import wikitextparser as wtp
 from wikidb import *
 import os, re, sys, time, string, signal, sqlite3, zlib
 
-
+#test
 def hms_string(sec_elapsed):
     h = int(sec_elapsed / (60 * 60))
     m = int((sec_elapsed % (60 * 60)) / 60)
