@@ -1,6 +1,6 @@
 import zlib
 import sqlite3
-from typing import Iterator
+from typing import Iterator, Tuple
 
 # There are 3 classes, they are all basically the same
 
@@ -53,7 +53,7 @@ class WikiDB:
         """, (pageid, title, categories, zarticle))
         self.maybe_commit()
 
-    def __iter__(self) -> Iterator[int, str, str, str]:
+    def __iter__(self) -> Iterator[Tuple[int, str, str, str]]:
         """
         Generator, iterates over every row of db
         """
@@ -63,7 +63,7 @@ class WikiDB:
             article = zlib.decompress(zarticle).decode('utf-8')  # Decompress article
             yield (pageid, title, categories, article)
 
-    def iterRandom(self, e: int) -> Iterator[int, str, str, str]:
+    def iterRandom(self, e: int) -> Iterator[Tuple[int, str, str, str]]:
         """
         Uniformly randomly iterate over e rows in db
         :param e: Amount of articles to iterate over
@@ -126,7 +126,7 @@ class WikiInfobox:
         """, (pageid, title, categories, chars, gender, infobox))
         self.maybe_commit()
 
-    def __iter__(self) -> Iterator[int, str, str, int, str, str]:
+    def __iter__(self) -> Iterator[Tuple[int, str, str, int, str, str]]:
         """
         Generator, iterates over every row of db
         """
@@ -135,7 +135,7 @@ class WikiInfobox:
       '''):
             yield (pageid, title, categories, chars, gender, infobox)
 
-    def iterRandom(self, e: int) -> Iterator[int, str, str, int, str, str]:
+    def iterRandom(self, e: int) -> Iterator[Tuple[int, str, str, int, str, str]]:
         """
         Uniformly randomly iterate over e rows in db
         :param e: Amount of articles to iterate over

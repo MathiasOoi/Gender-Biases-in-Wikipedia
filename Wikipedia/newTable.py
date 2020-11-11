@@ -68,13 +68,13 @@ def parsePage(article: str) -> Tuple[int, str, ]:
     return chars, gender, infobox
 
 def main():
-    newdb = WikiDBWithGenderAndInfobox2("wikiWithArgCharCount2.db")
-    db = WikiDB("wiki.db")
+    newdb = WikiInfobox("/mnt/data/mathias/WikiInfobox.db")
+    source = WikiDB("/mnt/data/mathias/wikidb.db")
     pageCount = 0
     noinfobox = 0
     othererror = 0
     start_time = time.time()
-    for (pageid, title, categories, article) in db:
+    for (pageid, title, categories, article) in source:
         pageCount += 1
         if not pageCount % 100000:
             elapsed_time = time.time() - start_time
@@ -87,8 +87,8 @@ def main():
             othererror += 1
             continue
         if x:
-            chars, gender, args, infobox = x
-            newdb.insert(pageid, title, categories, chars, gender, args, infobox)
+            chars, gender, infobox = x
+            newdb.insert(pageid, title, categories, chars, gender, infobox)
         else:
             noinfobox += 1
     newdb.commit()
