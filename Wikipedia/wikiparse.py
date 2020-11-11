@@ -2,7 +2,7 @@ import os
 import time
 import xml.etree.ElementTree as etree
 from itertools import chain
-from typing import Tuple, List
+from typing import List
 
 import wikitextparser as wtp
 from func_timeout import func_set_timeout

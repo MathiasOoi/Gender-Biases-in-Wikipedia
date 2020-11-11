@@ -1,45 +1,51 @@
-import zlib
 import time
-from wikidb import *
-from func_timeout import func_set_timeout
 from collections import defaultdict
+from typing import Tuple, List
 
 import wikitextparser as wtp
+from func_timeout import func_set_timeout
 
-def hms_string(sec_elapsed):
-    h = int(sec_elapsed / (60 * 60))
-    m = int((sec_elapsed % (60 * 60)) / 60)
-    s = sec_elapsed % 60
-    return "{}:{:>02}:{:>05.2f}".format(h, m, s)
+from wikidb import *
+from wikiparse import hms_string
 
-def getTemplate(page, template):
+def getTemplate(page: wtp._wikitext.WikiText, template: str) -> str:
     """
-    Given a parsed article return the string of given template
-    :param page: 'wikitextparser._wikitext.WikiText'
-    :param template: String (first part of a template)
-    :return: String of Template
+    Given a parsed article return the string of given template key
+    Templates start like {{template key ...}}
+    :param page: parsed page object
+    :param template: Template key
+    :return: Template
     """
     for tm in page.templates:
         tm = str(tm)
         if tm.split("\n")[0].strip("{").startswith(template):
             return tm
 
-def getInfobox(page):
+def getInfobox(page: str) -> str:
+    """
+    Finds the template associated with infobox
+    :param page: String of entire article
+    :return: Template of infobox
+    """
     article = wtp.parse(page)
     infobox = getTemplate(article, "Infobox")
     return infobox
 
-def removeNotes(s):
+def removeNotes(s: str) -> str:
     """
-    text <--! note
-    Remove everything past the <!--
+    Remove notes from infobox (key, value)
+    :param s: Infobox (key, value) "| key     = value"
+    :return: s with notes removed
     """
-    try:
-        return s[:s.index("<!--")]
-    except ValueError:
-        return s
+    if "<!--" in s: return s[:s.index("<!--")]
+    return s
 
-def getGender(page):
+def getGender(page: str) -> str:
+    """
+    Gets the gender of some article by doing a simple pro noun count
+    :param page: String of page
+    :return: "male" | "female"
+    """
     male, mc = ["he", "him", "his"], 0
     female, fc = ["her", "she", "hers"], 0
 
@@ -51,56 +57,16 @@ def getGender(page):
 
     return "male" if mc > fc else "female"
 
-def parseCell(cell):
-    """
-    :param cell: String (Wikipedia infobox cell)
-    :return: Tuple (String, List)
-    """
-    cell = cell.strip("\n").strip("  ").strip("| ")
-    key, value = cell[:cell.find("=")].strip(" "), cell[cell.find("=") + 2:]
-    value = removeNotes(value)
-    if value.startswith("{{"):
-        value = value.strip("{{").strip("}}")
-        if value.startswith("hlist"):
-            value = value.strip("hlist").split("|")
-            return key, value[1:]
-        elif value.startswith("plainlist"):
-            value = value.split("\n")[1:-1]
-            return key, [v.strip("*{{").strip("}}") for v in value]
-        else:
-            return key, [value]
-
-    else:
-        return key, [value]
-
 @func_set_timeout(10)
-def parsePage(article):
-    try:
-        infobox = getInfobox(article)
-        if infobox is None:
-            return
-        infobox = infobox[infobox.find("\n") + 1: infobox.rfind("\n")]
-        if infobox.count("\n") == 0: return
-        notParsed = infobox
-        infobox = wtp.Table(infobox)
-    except AttributeError:
-        return
+def parsePage(article: str) -> Tuple[int, str, ]:
+    """
+    Parses an article and returns desired values
+    :param article:
+    :return:
+    """
+    chars, gender, infobox = len(article), getGender(article), getInfobox(article)
+    return chars, gender, infobox
 
-        # Iterate over every cell and parse it
-    d = defaultdict(list)
-    try:
-        for a in range(len(infobox.cells())):
-            for b in range(len(infobox.cells(row=a))):
-                parsed = parseCell(str(infobox.cells(row=a, column=b)))
-                d[parsed[0]] = parsed[1]
-    except IndexError:
-        return
-
-    gender = getGender(article)
-    args = repr(list(zip(d.keys(), (sum(len(k) for k in i) for i in d.values()))))
-    chars = len(article)
-
-    return chars, gender, args, notParsed
 def main():
     newdb = WikiDBWithGenderAndInfobox2("wikiWithArgCharCount2.db")
     db = WikiDB("wiki.db")
