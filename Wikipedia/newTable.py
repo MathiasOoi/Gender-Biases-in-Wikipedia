@@ -6,6 +6,7 @@ import wikitextparser as wtp
 from func_timeout import func_set_timeout
 
 from wikidb import *
+from profiling import *
 from wikiparse import hms_string
 
 def getTemplate(page: wtp._wikitext.WikiText, template: str) -> str:
@@ -50,29 +51,34 @@ def getGender(page: str) -> str:
     female, fc = ["her", "she", "hers"], 0
 
     for word in page.split():
-        if word in male:
+        if word.lower() in male:
             mc += 1
-        elif word in female:
+        elif word.lower() in female:
             fc += 1
 
-    return "male" if mc > fc else "female"
+    if mc > fc:
+        return "M"
+    elif mc < fc:
+        return "F"
+    else:
+        return "D"
 
 @func_set_timeout(10)
-def parsePage(article: str) -> Tuple[int, str, ]:
+def parsePage(article: str) -> Tuple[int, str]:
     """
     Parses an article and returns desired values
     :param article:
     :return:
     """
     chars, gender, infobox = len(article), getGender(article), getInfobox(article)
-    return chars, gender, infobox
+    return chars, gender, infobox if infobox else None
 
 def main():
-    newdb = WikiInfobox("/mnt/data/mathias/WikiInfobox.db")
+    newdb = WikiInfobox("/mnt/data/mathias/WikiInfoboxRevised.db")
     source = WikiDB("/mnt/data/mathias/wikidb.db")
     pageCount = 0
+    error = 0
     noinfobox = 0
-    othererror = 0
     start_time = time.time()
     for (pageid, title, categories, article) in source:
         pageCount += 1
@@ -83,10 +89,9 @@ def main():
         try:
             x = parsePage(article)
         except BaseException as e:
-            print(e)
-            othererror += 1
+            error += 1
             continue
-        if x:
+        if x[2]:
             chars, gender, infobox = x
             newdb.insert(pageid, title, categories, chars, gender, infobox)
         else:
@@ -95,8 +100,7 @@ def main():
     elapsed_time = time.time() - start_time
 
     print("Elapsed time: {}".format(hms_string(elapsed_time)))
+    print(error)
     print(noinfobox)
-    print(othererror)
-
 if __name__ == '__main__':
     main()
