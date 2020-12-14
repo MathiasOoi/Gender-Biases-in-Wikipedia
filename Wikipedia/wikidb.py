@@ -312,3 +312,29 @@ class WikiDBWithGenderAndInfobox2:
               '''.format(str(e))):
             yield (pageid, title, categories, chars, gender, infoboxArgs, infobox)
 
+
+class GenderArgs:
+    def __init__(self, filename: str):
+        """
+        :param filename: Filename for db
+        """
+        self.conn = sqlite3.connect(filename)
+        self.conn.execute("""
+        CREATE TABLE IF NOT EXISTS GenderArgs (
+              gender text,
+              arg text,
+              total integer)""")
+        self.conn.commit()
+        self.pending = 0  # Counter for when to commit
+    def maybe_commit(self):
+        self.pending += 1
+        if self.pending > 100:
+            self.commit()
+    def commit(self):
+        self.conn.commit()
+        self.pending = 0
+    def insert(self, gender, arg, total):
+        self.conn.execute("""
+          INSERT INTO GenderArgs VALUES (?, ?, ?);
+        """.format(gender), (gender, arg, total))
+        self.maybe_commit()
